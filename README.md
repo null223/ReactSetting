@@ -1,7 +1,7 @@
->start storybook
+>start storybook  
 `npm storybook` or `yarn storybook`
 
->build static file
+>build static file  
 `npm build-storybook` or `yarn build-storybook` 
 
 
